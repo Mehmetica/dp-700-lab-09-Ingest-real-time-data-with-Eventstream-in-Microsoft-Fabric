@@ -1,4 +1,10 @@
 # dp-700-lab-09-Ingest-real-time-data-with-Eventstream-in-Microsoft-Fabric
+
+
+https://github.com/user-attachments/assets/13b4d4ac-3841-4a12-813f-680a18703a9c
+
+
+
 📈 Real-Time Stock Market Analytics with Microsoft Fabric
 This project demonstrates how to use Microsoft Fabric Real-Time Intelligence to ingest, store, analyze, and visualize real-time stock market data using eventstreams, eventhouses, and KQL queries.
 
